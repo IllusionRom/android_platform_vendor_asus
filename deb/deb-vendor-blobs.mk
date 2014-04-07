@@ -66,6 +66,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/deb/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/asus/deb/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/asus/deb/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
+    vendor/asus/flo/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
     vendor/asus/deb/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/asus/deb/proprietary/lib/libc2d30-a3xx.so:system/lib/libc2d30-a3xx.so \
     vendor/asus/deb/proprietary/lib/libc2d30.so:system/lib/libc2d30.so \
