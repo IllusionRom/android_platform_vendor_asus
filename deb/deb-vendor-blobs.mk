@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/deb/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/asus/deb/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/asus/deb/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
+    vendor/asus/deb/proprietary/lib/libllvm-qcom.so:system/lib/libllvm-qcom.so \
     vendor/asus/deb/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/asus/deb/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/asus/deb/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
